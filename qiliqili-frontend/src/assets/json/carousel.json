@@ -1,0 +1,38 @@
+[
+    {
+        "url": "http://localhost:9005/video-cover/015692c4-3f3f-4e83-9f89-1b1712e1fb6c_1.png",
+        "title": "只能由我来选",
+        "color": "#ca8d6b",
+        "target": "/video/28"
+    },
+    {
+        "url": "http://localhost:9005/video-cover/015692c4-3f3f-4e83-9f89-1b1712e1fb6c_1.png",
+        "title": "一起来庆祝生日吧！",
+        "color": "#5894d4",
+        "target": "/video/16"
+    },
+    {
+        "url": "http://localhost:9005/video-cover/015692c4-3f3f-4e83-9f89-1b1712e1fb6c_1.png",
+        "title": "还记得那年感动的瞬间吗",
+        "color": "#836e61",
+        "target": "/video/5"
+    },
+    {
+        "url": "http://localhost:9005/video-cover/015692c4-3f3f-4e83-9f89-1b1712e1fb6c_1.png",
+        "title": "治疗就交给我吧，不会让你失望的❥(^_-)",
+        "color": "#728cb4",
+        "target": "/video/6"
+    },
+    {
+        "url": "http://localhost:9005/video-cover/015692c4-3f3f-4e83-9f89-1b1712e1fb6c_1.png",
+        "title": "新歌MV发布，快前来围观>>>",
+        "color": "#564e3e",
+        "target": "/video/20"
+    },
+    {
+        "url": "http://localhost:9005/video-cover/015692c4-3f3f-4e83-9f89-1b1712e1fb6c_1.png",
+        "title": "拜托～圣诞节和我一起过吧",
+        "color": "#724b50",
+        "target": "/video/25"
+    }
+]
