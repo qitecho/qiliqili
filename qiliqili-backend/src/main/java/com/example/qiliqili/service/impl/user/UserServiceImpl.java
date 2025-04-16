@@ -51,7 +51,7 @@ public class UserServiceImpl implements UserService {
 //    @Autowired
 //    private OssUtil ossUtil;
 
-    @Value("${oss.bucketUrl}")
+    @Value("${minio.endpoint}")
     private String OSS_BUCKET_URL;
     @Value("${minio.userAvatarBucket}")
     private String userAvatarBucket;

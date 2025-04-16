@@ -50,7 +50,7 @@
 
 <script>
 import HeaderBar from '@/components/headerBar/HeaderBar.vue';
-
+import backgroundImage from '@/assets/img/message-bg.png';
 export default {
     name: "MessageView",
     components: {
@@ -80,7 +80,7 @@ export default {
     },
     beforeRouteEnter(to, from, next) {
         // 设置全局背景
-        const backgroundImage = require('@/assets/img/message-bg.png');
+        // const backgroundImage = require('@/assets/img/message-bg.png');
         document.body.style.cssText = `background: url(${backgroundImage}) top/cover no-repeat fixed;`;
         // document.documentElement.style.overflow = 'hidden';
         let apps = document.querySelectorAll('#app');
